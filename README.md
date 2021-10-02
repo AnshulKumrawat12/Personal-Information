@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anshul Kumrawat.
 - 👀 Currently studying in Indian Institute of Science, Bangalore [M.Tech-CSA (2020-22)].
-- 🌱 I’m currently working on Theory and Applications of Unsupervised Deep Learning Models.
+- 🌱 I’m currently working on Theory and Applications of Unsupervised Deep Learning Models as a M.Tech Project.
 - 📫 You can reach on my Linked Profile via - https://www.linkedin.com/in/anshul-kumrawat-88627b152/
 
 <!---
